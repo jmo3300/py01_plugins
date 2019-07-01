@@ -62,7 +62,7 @@ class Config:
         
     def _init_log(self):
         
-        # TODO: separate log file per run
+        # TODO: separate log file per run 
         # LOG
         self._log = logging.getLogger(self.get_app())
         self._log.setLevel(logging.DEBUG)

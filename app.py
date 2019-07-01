@@ -3,7 +3,6 @@ import sys
 import importlib
 from config import Config
 
-
 _app = os.path.splitext(os.path.basename(__file__))[0]
 
 # create configuration
