@@ -1,0 +1,7 @@
+/__pycache__/
+/.settings/
+/logs/
+/plugins/__pycache__/
+/.project
+/.pydevproject
+/app.cfg
